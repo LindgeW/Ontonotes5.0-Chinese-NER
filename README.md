@@ -1,6 +1,6 @@
 # Ontonotes5.0 Chinese NER dataset 
 Notes:
-+ The data source is from [https://catalog.ldc.upenn.edu/LDC2013T19/](OntoNotes Release 5.0 - LDC2013T19)
++ The data source is from [OntoNotes Release 5.0 - LDC2013T19](https://catalog.ldc.upenn.edu/LDC2013T19/) 
 + The corpus contains 18 named entity types (including 7 value types)
 + The split of train/dev/test portions follows [http://conll.cemantix.org/2012/download/ids/](http://conll.cemantix.org/2012/download/ids)
 
